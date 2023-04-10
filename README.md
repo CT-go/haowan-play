@@ -10,7 +10,7 @@
 
    *   [chatGPT-3.5](https://chat23.yqcloud.top/#/chat)  ： 提供免费的gpt-3.5聊天模型   
 
-   *   [标小智]（https://www.logosc.cn/） ：logo设计神器
+   *   [标小智](https://www.logosc.cn/) ：logo设计神器
 
     
 
