@@ -8,7 +8,7 @@
    
    *   [文件转换器](https://convertio.co/zh/)  : 提供免费的图片格式转换，亲测功能非常强大 
 
-   *   [免费gpt-3.5](https://chat23.yqcloud.top/#/chat)  ： 提供免费的gpt-3.5聊天模型   
+   *   [chatGPT-3.5](https://chat23.yqcloud.top/#/chat)  ： 提供免费的gpt-3.5聊天模型   
 
     
 
